@@ -1,6 +1,6 @@
 # Download-Youtube #
 # Happy for Try
-# Don't Cry Say.. :) #
+# Don't Cry Beby.. :) #
 
 $ pkg update && pkg upgrade
 $ pkg install python2
